@@ -3,7 +3,7 @@
 
 
 
-import pandas as pd  # pour installer les library : pip install pandas openpyxl
+import pandas as pd  # if library isn't installed : pip install pandas openpyxl
 import plotly.express as px  # pip install plotly-express
 import streamlit as st  # pip install streamlit
 
